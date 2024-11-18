@@ -23,3 +23,9 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Project-specific
+*.xlsx
+Forms
+AlternativeDesigns
+*-backups
